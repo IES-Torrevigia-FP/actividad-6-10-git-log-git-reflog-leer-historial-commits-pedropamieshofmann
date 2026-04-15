@@ -1,0 +1,8 @@
+Reset usado:
+git reset --hard abc123
+
+Reflog:
+HEAD@{1}: commit: último commit
+
+Recuperación:
+git reset --hard HEAD@{1}

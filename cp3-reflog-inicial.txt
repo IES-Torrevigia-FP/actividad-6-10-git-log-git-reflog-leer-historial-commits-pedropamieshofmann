@@ -1,0 +1,8 @@
+Salida:
+HEAD@{0}: commit: Actualiza main
+HEAD@{1}: checkout: moving from feature-a to main
+
+Explicación:
+git log muestra el historial de commits.
+git reflog muestra todos los movimientos de HEAD (cambios de rama, reset, etc).
+

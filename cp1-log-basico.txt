@@ -1,0 +1,8 @@
+* 80d5657 (HEAD -> main) Actualiza main antes de integrar A
+| * 6df484d (feature-b) Añade funcionalidad B
+|/  
+| * 5aea469 (feature-a) Añade funcionalidad A
+|/  
+* d0a9b9e Commit inicial
+* 304d77d (origin/main, origin/HEAD) add deadline
+* c196b2a Initial commit

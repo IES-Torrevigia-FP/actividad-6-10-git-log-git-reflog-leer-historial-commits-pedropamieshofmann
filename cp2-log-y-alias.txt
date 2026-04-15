@@ -1,0 +1,9 @@
+Comandos probados:
+git log --oneline
+git log --oneline --graph
+
+Alias:
+git config --global alias.lg "log --oneline --graph --decorate --all"
+
+Explicación:
+La vista con --graph y --oneline es la más útil porque muestra las ramas de forma visual y resumida.

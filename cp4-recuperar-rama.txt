@@ -1,0 +1,8 @@
+Reflog usado:
+HEAD@{3}: commit: Añade funcionalidad B
+
+Comando:
+git branch feature-b-recuperada HEAD@{3}
+
+Explicación:
+reflog permite recuperar commits incluso si se borra una rama.
